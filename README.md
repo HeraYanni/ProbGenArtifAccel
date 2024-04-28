@@ -13,10 +13,18 @@ Yanni H., Fragiadakis M., and Mitseas I.P. Probabilistic generation of hazard-co
 Version 1.0 created by Hera Yanni, first release: 28th of April, 2024 
 
 ## How to run
-* Run the MAIN_generate_acc.m in MATLAB online by clicking on this link https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/Propabilistic_generation_of_artificial_accelerograms,
+*  Download the files and run the main MAIN_generate_acc.m in MATLAB
+  
+* Run the MAIN_generate_acc.m in MATLAB online (no license is needed for MATLAB online)
+  by clicking on this link https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/Propabilistic_generation_of_artificial_accelerograms,
 
   or pressing this button [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/Propabilistic_generation_of_artificial_accelerograms)
-*  Download the files and run the main MAIN_generate_acc.m in MATLAB
+
+  Needs to login to a MATLAB account, the working interface is this:
+
+  ![image](https://github.com/HeraYanni/Propabilistic_generation_of_artificial_accelerograms/assets/159805439/7dea1e22-4074-4f56-8ba3-9f1e64136188)
+
+
 
 ## Main features:
 * The target spectrum can be a smooth code spectrum or a GMM
