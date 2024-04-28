@@ -12,6 +12,9 @@ Yanni H., Fragiadakis M., and Mitseas I.P. Probabilistic generation of hazard-co
 
 Version 1.0 created by Hera Yanni, first release: 28th of April, 2024 
 
+## How to run
+* Run the MAIN_generate_acc.m 
+*  Download the files and run the main MAIN_generate_acc.m in MATLAB
 
 ## Main features:
 * The target spectrum can be a smooth code spectrum or a GMM
