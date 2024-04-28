@@ -13,9 +13,9 @@ g = 9.81; %m/sec2
 Sa = flip(Sa); %m/sec2
 [Gstat] = PSDstationary(zeta,N,omega,Sa,Ts,dom);
 
-%% Evolutionary PSD: Non-separable process (Preumont)
+%% Evolutionary PSD: Non-separable process 
 % Modulating function constants
-a_mod = [2/(t1+Ts/2), 0.01 , 0.0, 2]; % [a0, a1, a2, gamma]
+a_mod = [2/(t1+Ts/2), 0.01 , 0.0, 2]; % [p0, p1, p2, gamma]
 [G_EPSD,A_wt] = EPSD(a_mod,omega,t,N,Gstat,Env_t);
 
 end
