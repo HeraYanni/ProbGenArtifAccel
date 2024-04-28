@@ -16,9 +16,9 @@ Version 1.0 created by Hera Yanni, first release: 28th of April, 2024
 *  Download the files and run the main MAIN_generate_acc.m in MATLAB
   
 * Run the MAIN_generate_acc.m in MATLAB online (no license is needed for MATLAB online)
-  by clicking on this link https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/Propabilistic_generation_of_artificial_accelerograms,
+  by clicking on this link https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/ProbGenArtifAccel,
 
-  or pressing this button [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/Propabilistic_generation_of_artificial_accelerograms)
+  or pressing this button [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=HeraYanni/ProbGenArtifAccel)
 
   Needs to login to a MATLAB account, the working interface is this:
 
