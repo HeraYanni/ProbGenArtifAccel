@@ -38,12 +38,17 @@ Version 1.0 created by Hera Yanni, first release: 28th of April, 2024
 * Husid function computation
 * Heaviside step function computation
 
-## Copyright (c) 2024
 
-Hera Yanni
+## Copyright Notice
+
+The present software, created by Hera Yanni, can be freely employed, downloaded, and shared with others as long as proper credit is attributed to the creator:
+
+Hera Yanni (c) 2024
 
 Structural Engineer NTUA, MSc in ADERS
 
 Ph.D. Candidate, Laboratory for Earthquake Engineering NTUA
 
 email: heragian@mail.ntua.gr, heragian@gmail.com 
+
+Please note that there is no warranty or liability of the creator associated with this free software.
