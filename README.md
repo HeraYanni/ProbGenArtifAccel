@@ -4,11 +4,10 @@ Tool for generating target spectrum-compatible fully-nonstationary artificial se
 
 The produced suites of ground motions can match a given target mean spectrum and target variability for the whole period range of interest.
 
-Works also for zero variability, i.e. only mean matching
+Works also for zero variability, i.e. only mean matching.
 
 Further details are provided in the following document:
-
-Yanni H., Fragiadakis M., and Mitseas I.P. Probabilistic generation of hazard-consistent suites of fully non-stationary seismic records. Earthquake Engineering and Structural Dynamics. In review.
+Yanni H., Fragiadakis M., and Mitseas I.P. Probabilistic generation of hazard-consistent suites of fully non-stationary seismic records. Earthquake Engineering and Structural Dynamics. https://doi.org/10.1002/eqe.4153 .
 
 Version 1.0 created by Hera Yanni, first release: 28th of April, 2024 
 
