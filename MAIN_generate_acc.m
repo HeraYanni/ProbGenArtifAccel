@@ -12,7 +12,8 @@ set(groot,'defaultFigureColor','w')
 %
 % Yanni H., Fragiadakis M., and Mitseas I.P. Probabilistic generation of 
 % hazard-consistent suites of fully non-stationary seismic records. 
-% Earthquake Engineering and Structural Dynamics. In review.
+% Earthquake Engineering and Structural Dynamics.
+% doi: https://doi.org/10.1002/eqe.4153
 
 % Version 1.0 created by Hera Yanni, first release: 28th of April, 2024 
 
